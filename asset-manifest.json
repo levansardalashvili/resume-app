@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/resume-app/static/css/main.e42c1823.css",
+    "main.js": "/resume-app/static/js/main.a1f1884f.js",
+    "static/media/cars.JPG": "/resume-app/static/media/cars.301d81c4e5070e4e56c4.JPG",
+    "static/media/movies.JPG": "/resume-app/static/media/movies.c78b993447226c9266c7.JPG",
+    "static/media/wine.JPG": "/resume-app/static/media/wine.b9e441ec516847b1efb1.JPG",
+    "static/media/weather.JPG": "/resume-app/static/media/weather.fed90c4348b8a5406cfc.JPG",
+    "static/media/search.JPG": "/resume-app/static/media/search.649eb316d9c791d45ef5.JPG",
+    "static/media/animalsnft.JPG": "/resume-app/static/media/animalsnft.7b125b013e480c9070b7.JPG",
+    "static/media/travelreact.JPG": "/resume-app/static/media/travelreact.87b399d6e3308a68bb18.JPG",
+    "static/media/travel.JPG": "/resume-app/static/media/travel.2e3d3b757f636dbcc80d.JPG",
+    "static/media/build-house.JPG": "/resume-app/static/media/build-house.dc53e725391a67652180.JPG",
+    "static/media/food.JPG": "/resume-app/static/media/food.ae7cb542513abee97015.JPG",
+    "static/media/teamsnft.JPG": "/resume-app/static/media/teamsnft.36bb2d9f36b3048c9f38.JPG",
+    "static/media/react.png": "/resume-app/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/quiz.JPG": "/resume-app/static/media/quiz.28ec5ebf10f0257be0e7.JPG",
+    "static/media/photo.jpg": "/resume-app/static/media/photo.3fc85c344cbd5c0805df.jpg",
+    "static/media/github.png": "/resume-app/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/resume-app/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/resume-app/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/sass.png": "/resume-app/static/media/sass.914ec671f6a8e4238e13.png",
+    "static/media/javascript.png": "/resume-app/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/resume-app/index.html",
+    "main.e42c1823.css.map": "/resume-app/static/css/main.e42c1823.css.map",
+    "main.a1f1884f.js.map": "/resume-app/static/js/main.a1f1884f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e42c1823.css",
+    "static/js/main.a1f1884f.js"
+  ]
+}
